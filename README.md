@@ -11,6 +11,8 @@
 - юнит-тестирование, test-driven development
 - CMake
 - Vusual Studio
+- Бинарная сериализация
+- Protobuf
 <!--
 **samyonba/samyonba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
