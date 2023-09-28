@@ -2,17 +2,18 @@
 Выпускник курсов практикума "Разработчик С++" и "Алгоритмы и структуры данных".
 
 Ключевые навыки:
+- Бинарная сериализация
+- Protobuf
 - С++17
 - STL
+- CMake
 - Алгоритмы и структуры данных
 - ООП
 - Git
 - многопоточность
 - юнит-тестирование, test-driven development
-- CMake
 - Vusual Studio
-- Бинарная сериализация
-- Protobuf
+
 <!--
 **samyonba/samyonba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
