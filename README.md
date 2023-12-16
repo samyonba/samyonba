@@ -12,7 +12,7 @@
 - Git
 - многопоточность
 - юнит-тестирование, test-driven development
-- Vusual Studio
+- Visual Studio
 
 <!--
 **samyonba/samyonba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
